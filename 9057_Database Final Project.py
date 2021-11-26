@@ -34,7 +34,7 @@ query2_return = [] # store the return of query 2
 #setting for postgreSQL
 #change these globals (user name and user password) to match your settings
 user_name = "postgres" #the username for accessing your postgreSQL
-user_pass = "136958" #the password for accessing your postgreSQL
+user_pass = "123456" #the password for accessing your postgreSQL
 
 # create a class for the buttons and labels
 class Button():
